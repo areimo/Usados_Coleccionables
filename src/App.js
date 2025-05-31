@@ -41,7 +41,9 @@ function App() {
 
       </div>
       </main>
-
+      <header className='App-shop'>
+        <h6>Tienda</h6>
+      </header>
       <footer className='App-footer'>
         <p id='footer'>2025 @areimo on Github</p>
       </footer>
