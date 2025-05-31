@@ -1,5 +1,5 @@
 import React from "react";
-import whatsapp from "src/contact_icons/whatsapp.png"; 
+import whatsapp from "./whatsapp.png"; 
 const WppContact = () => {
   const phoneNumber = "099284003";
   const message = "Hola, estoy interesado en un service...";
