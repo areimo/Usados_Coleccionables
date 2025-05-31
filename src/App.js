@@ -1,7 +1,7 @@
 import React from 'react';  
 import logo from './logo.png';
-import phone from 'src/contact_icons/phone.png';
-import facebook from 'src/contact_icons/facebook.png';
+import phone from './phone.png';
+import facebook from './facebook.png';
 import './App.css';
 import AutoSlider from './slider.jsx';
 import WppContact from './wppContact.jsx';
