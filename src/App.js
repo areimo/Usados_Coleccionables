@@ -5,6 +5,7 @@ import facebook from './facebook.png';
 import './App.css';
 import AutoSlider from './slider.jsx';
 import WppContact from './wppContact.jsx';
+import { SecondSlider } from './secondslider.jsx';
 
 function App() {
   return (
@@ -44,6 +45,7 @@ function App() {
       <header className='App-shop'>
         <h6>Tienda</h6>
       </header>
+      <SecondSlider />
       <footer className='App-footer'>
         <p id='footer'>2025 @areimo on Github</p>
       </footer>
